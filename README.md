@@ -16,3 +16,7 @@ EmlakBurada-Email
 * Application server
 * Tomcat
 * Netty
+
+
+*******************
+2,3 ve 4. sorular pdf olarak eklenmiştir. 1. Soruda ElakBurada-Banner ve EmlakBurada-Authiçin unit testler eklenmiştir.
